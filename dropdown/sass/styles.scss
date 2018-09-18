@@ -1,0 +1,12 @@
+@import "general/header";
+@import "general/lista-helpers";
+/****HOVER****/
+.desplegable li a:hover{
+    background-color: #9c8aa5;
+    color: #ffffff;
+    font-size: 18px;
+}
+.dropdown li:hover > ul{
+    display: block;
+
+}
