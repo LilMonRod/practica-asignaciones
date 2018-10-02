@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 200 200">
+   <defs>
+      <style>
+        .cls-1 {
+            fill: none;
+            stroke: #000;
+            stroke-miterlimit: 10;
+            stroke-width: 12px;
+            stroke-dasharray: 190;
+            stroke-dashoffset: 0;
+          animation: uy-no-se-diga-mas 10s linear infinite;
+        }
+        @keyframes uy-no-se-diga-mas{
+          50%{
+            stroke-dashoffset: 190;
+          }
+        }
+      </style>
+   </defs>
+   <title>flor</title>
+   <circle class="cls-1" cx="93.95" cy="94.46" r="30" />
+   <path class="cls-1" d="M501.5,272.5s-24-57-1-63c0,0,22-6,22,12s-14.23,51.78-14.23,51.78" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M487.42,275.7s-48.18-42.11-29.31-58.13c0,0,17.94-15.57,26,1.17s10,54.62,10,54.62" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M477.72,282.94s-60-15.17-50.9-37.14c0,0,8.46-21.18,22.83-10.34S482.41,278,482.41,278" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M471.24,295.73s-60.87,10.92-61.69-12.84c0,0-1-22.78,16.53-18.83s47.4,25.23,47.4,25.23" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M477.18,320.84s-29,54.61-48.21,40.57c0,0-18.55-13.27-4.59-24.64S473.5,315.1,473.5,315.1" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M471.22,307.66s-47.73,39.33-60.07,19c0,0-12.06-19.36,5.19-24.52S470,300.95,470,300.95" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M513.75,330.15s45.79,41.57,27.46,56.71c0,0-17.42,14.71-25-1.61s-8.92-53-8.92-53" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M500.36,332.29s24.31,56.87,1.34,63c0,0-22,6.12-22.06-11.88s14-51.85,14-51.85" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M488,329.82s-3.79,61.73-27.06,56.9c0,0-22.38-4.39-14.39-20.52s35.73-40.08,35.73-40.08" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M529.55,296.09s51.29-34.55,61.62-13.15c0,0,10.13,20.43-7.53,23.9s-53.55-4-53.55-4" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M528.84,311s60.92-10.66,61.63,13.1c0,0,.93,22.78-16.61,18.76s-47.29-25.43-47.29-25.43" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M522.78,322.44s59.65,16.35,50.15,38.14c0,0-8.88,21-23,9.88S518,327.29,518,327.29" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M513.54,275.1s4.33-62.12,28.39-56.25c0,0,23.13,5.39,14.76,21.32s-37.25,38.91-37.25,38.91" transform="translate(-406.55 -208.04)" />
+   <path class="cls-1" d="M524.91,284.23s32.36-52.7,50.63-37.5c0,0,17.69,14.39,3.06,24.87s-50.38,18.58-50.38,18.58" transform="translate(-406.55 -208.04)" />
+</svg>

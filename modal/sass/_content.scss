@@ -1,0 +1,26 @@
+/* fondo Modal */
+#modalSeccion {
+    display: none; 
+    left: 0;
+    top: 0;
+    background-color: #000000;
+    opacity: 0.6;
+    z-index: 1;
+    position: absolute;
+    height: 100%;
+    width: 100%; 
+}
+
+/* Caja de Modal*/
+.ContenidoModal{
+    background-color: #44B7C8;
+    border-radius: 3px;
+    color: aliceblue;
+    font-family: Nanum Gothic;
+    font-size: 36px;
+    margin: 15% auto;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    z-index: 2;
+}
